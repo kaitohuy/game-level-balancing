@@ -1,0 +1,6 @@
+python-interpreter-path = "E:/Technology/Library/Python/python 3.12/python.exe"
+
+search-path = [
+    ".",
+]
+
